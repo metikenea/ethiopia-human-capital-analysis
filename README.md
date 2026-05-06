@@ -29,3 +29,10 @@ at approximately 401 deaths per 100,000 live births.
 1. Open the `.ipynb` file in [Google Colab](https://colab.research.google.com/)
 2. Upload `Ethiopia_Human_Capital_Master.csv` when prompted
 3. Run all cells to generate the three charts
+## Visualizations
+
+![Child Health](chart1_child_health.png)
+
+![Education](chart2_education.png)
+
+![Demographics](chart3_demographics.png)
